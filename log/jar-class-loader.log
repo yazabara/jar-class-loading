@@ -1,0 +1,1364 @@
+2014-08-04/09:28:51.434  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:28:51.437  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/09:28:51.437  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/09:28:51.437  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/09:28:51.438  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/09:28:51.438  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/09:28:51.438  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/09:28:51.438  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/09:28:51.438  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/09:28:51.439  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/09:37:48.803  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:37:48.805  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/09:37:48.806  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/09:37:48.806  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/09:37:48.806  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/09:37:48.806  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/09:37:48.806  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/09:37:48.807  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/09:37:48.807  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/09:37:48.807  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/09:38:41.565  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:38:41.566  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/09:38:41.568  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/09:38:41.568  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/09:38:41.568  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/09:38:41.568  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/09:38:41.568  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/09:38:41.569  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/09:38:41.569  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/09:38:41.569  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/09:38:41.569  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/09:39:03.058  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:39:03.059  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/09:39:03.061  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/09:39:03.061  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/09:39:03.061  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/09:39:03.061  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/09:39:03.061  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/09:39:03.062  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/09:39:03.062  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/09:39:03.062  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:39:03.062  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/09:39:03.063  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/09:39:03.063  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/09:43:23.063  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:43:23.063  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/09:43:23.065  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/09:43:23.066  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/09:43:23.066  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/09:43:23.066  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/09:43:23.066  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/09:43:23.066  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/09:43:23.067  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/09:43:23.067  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:43:23.067  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\test\out\artifacts\test_jar\test.jar
+2014-08-04/09:43:23.068  INFO: jarclassloading.JarClassLoader - ElenaF.jar was found
+2014-08-04/09:43:23.068  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/09:43:23.069  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/09:44:21.106  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:44:21.106  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/09:44:21.109  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/09:44:21.109  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/09:44:21.109  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/09:44:21.109  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/09:44:21.109  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/09:44:21.110  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/09:44:21.110  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/09:44:21.110  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/09:44:21.110  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\test\out\artifacts\test_jar\test.jar
+2014-08-04/09:44:21.111  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/09:44:21.112  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/09:44:21.112  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:01:26.948  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:01:26.951  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/10:01:26.951  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:01:26.953  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:01:26.953  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:01:26.953  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:01:26.954  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:01:26.954  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:01:26.954  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:01:26.954  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:01:26.954  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:01:26.955  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:01:26.955  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:01:26.955  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:01:26.956  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:01:26.956  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/10:01:26.956  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:01:56.098  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:02:20.566  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/10:02:20.566  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:02:20.569  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:02:20.569  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:02:20.570  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:02:20.570  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:02:20.571  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:02:20.571  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:02:20.571  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:02:20.571  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:02:20.572  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:02:20.572  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:02:20.572  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:02:20.574  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:02:20.575  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/10:02:20.575  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:02:33.706  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:02:33.710  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/10:02:33.710  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:02:33.711  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:02:33.712  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:02:33.712  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:02:33.712  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:02:33.713  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:02:33.713  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:02:33.713  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:02:33.713  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:02:33.713  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:02:33.713  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:02:33.714  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:02:33.715  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:02:33.715  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/10:02:33.715  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:02:56.064  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:03:02.868  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/10:03:32.128  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:03:32.130  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:03:32.130  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:03:32.130  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:03:32.131  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:03:32.131  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:03:32.131  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:03:32.131  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:03:32.131  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:03:32.132  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:03:32.132  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:03:32.132  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:03:32.133  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:03:32.133  INFO: jarclassloading.JarClassLoader - ================loadJars===============
+2014-08-04/10:03:33.300  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:08:12.865  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:08:12.870  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:08:12.870  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:08:12.871  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:08:12.872  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:08:12.872  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:08:12.872  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:08:12.873  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:08:12.873  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:08:12.873  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:08:12.873  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:08:12.873  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:08:12.874  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:08:12.874  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:08:12.875  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:08:12.875  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:08:12.875  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:08:20.779  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:09:08.743  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:09:08.744  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:09:08.747  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:09:08.747  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:09:08.748  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:09:08.749  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:09:08.749  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:09:08.750  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:09:08.750  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:09:08.750  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:09:08.751  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:09:08.751  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:09:08.752  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:09:08.754  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:09:08.755  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:09:08.755  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:10:14.025  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:11:27.145  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:11:27.149  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:11:27.149  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:11:27.151  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:11:27.151  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:11:27.152  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:11:27.152  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:11:27.152  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:11:27.152  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:11:27.152  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:11:27.152  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:11:27.153  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:11:27.153  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:11:27.153  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:11:27.154  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:11:27.155  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:11:27.155  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:11:28.384  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:11:28.385  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:11:28.388  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:11:28.389  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:11:28.390  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:11:28.390  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:11:28.391  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:11:28.391  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:11:28.391  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:11:28.392  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:11:28.392  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:11:28.393  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:11:28.393  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:11:28.395  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:11:28.396  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:11:28.396  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:12:02.450  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:12:02.453  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:12:02.454  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:12:02.455  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:12:02.455  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:12:02.456  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:12:02.456  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:12:02.456  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:12:02.456  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:12:02.457  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:12:02.457  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:12:02.457  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:12:02.457  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:12:02.457  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:12:02.458  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:12:02.459  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:12:02.459  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:12:09.827  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:12:09.830  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:12:09.831  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:12:09.832  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:12:09.832  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:12:09.833  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:12:09.833  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:12:09.833  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:12:09.833  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:12:09.833  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:12:09.834  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:12:09.834  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:12:09.834  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:12:09.834  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:12:09.835  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:12:09.836  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:12:09.836  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:12:20.226  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:12:24.278  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:12:34.048  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:12:48.276  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:12:48.277  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:12:48.278  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:12:48.278  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:12:48.278  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:12:48.279  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:12:48.279  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:12:48.280  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:12:48.280  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:12:48.281  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:12:48.281  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:12:48.283  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:12:48.284  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:12:49.408  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:17:18.033  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:17:18.073  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:17:18.073  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:17:18.075  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:17:18.075  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:17:18.076  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:17:18.076  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:17:18.076  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:17:18.076  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:17:18.076  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:17:18.077  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:17:18.077  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:17:18.077  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:17:18.077  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:17:18.078  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:17:18.079  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:17:18.079  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:17:29.276  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:17:43.272  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:18:11.007  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:18:39.466  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:18:39.466  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:18:39.467  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:18:39.468  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:18:39.468  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:18:39.469  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:18:39.469  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:18:39.470  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:18:39.470  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:18:39.470  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:18:39.471  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:18:39.473  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:18:39.474  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:18:40.291  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:19:06.427  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:19:06.468  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:19:06.469  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:19:06.470  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:19:06.470  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:19:06.471  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:19:06.471  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:19:06.471  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:19:06.471  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:19:06.472  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:19:06.472  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:19:06.472  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:19:06.472  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:19:06.472  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:19:06.473  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:19:06.474  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:19:06.474  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:19:36.616  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:19:36.656  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:19:36.657  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:19:36.658  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:19:36.658  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:19:36.659  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:19:36.659  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:19:36.659  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:19:36.660  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:19:36.660  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:19:36.660  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:19:36.660  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:19:36.660  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:19:36.660  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:19:36.661  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:19:36.662  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:19:36.662  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:35:26.022  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:38:55.348  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:43:18.289  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:43:31.702  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:43:31.702  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/10:43:31.705  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/10:43:31.705  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/10:43:31.705  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/10:43:31.705  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/10:43:31.705  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/10:43:31.705  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/10:43:31.706  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/10:43:31.706  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/10:43:31.706  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/10:43:31.707  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/10:43:31.707  INFO: jarclassloading.JarClassLoader - ================loadClassFromJar===============
+2014-08-04/10:43:32.331  INFO: jarclassloading.JarClassLoader - JarClassLoader search task1.Elena
+2014-08-04/10:44:04.108  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:45:07.251  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:45:07.252  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/10:45:07.252  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/10:45:07.252  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/10:45:07.252  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/10:45:07.252  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/10:45:07.253  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/10:45:07.254  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/10:53:15.499  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:53:29.042  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:53:29.044  INFO: jarclassloading.JarClassLoader - A.class || 
+2014-08-04/10:53:29.044  INFO: jarclassloading.JarClassLoader - B.class || 
+2014-08-04/10:53:29.044  INFO: jarclassloading.JarClassLoader - BoomBox2.class || 
+2014-08-04/10:53:29.044  INFO: jarclassloading.JarClassLoader - Bungee.class || 
+2014-08-04/10:53:29.045  INFO: jarclassloading.JarClassLoader - C.class || 
+2014-08-04/10:53:29.045  INFO: jarclassloading.JarClassLoader - callabletest/ || 
+2014-08-04/10:53:29.045  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class || 
+2014-08-04/10:53:29.045  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class || 
+2014-08-04/10:53:29.045  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class || 
+2014-08-04/10:53:29.045  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class || 
+2014-08-04/10:53:29.046  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class || 
+2014-08-04/10:53:29.046  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class || 
+2014-08-04/10:53:29.046  INFO: jarclassloading.JarClassLoader - Concrete.class || 
+2014-08-04/10:53:29.046  INFO: jarclassloading.JarClassLoader - Fabric.class || 
+2014-08-04/10:53:29.046  INFO: jarclassloading.JarClassLoader - Main.class || 
+2014-08-04/10:53:29.046  INFO: jarclassloading.JarClassLoader - META-INF/ || 
+2014-08-04/10:53:29.046  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF || 
+2014-08-04/10:53:29.047  INFO: jarclassloading.JarClassLoader - MyPancake.class || 
+2014-08-04/10:53:29.047  INFO: jarclassloading.JarClassLoader - MySort.class || 
+2014-08-04/10:53:29.047  INFO: jarclassloading.JarClassLoader - otherlib/ || 
+2014-08-04/10:53:29.047  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar || 
+2014-08-04/10:53:29.047  INFO: jarclassloading.JarClassLoader - Pancake.class || 
+2014-08-04/10:53:29.048  INFO: jarclassloading.JarClassLoader - RediMix.class || 
+2014-08-04/10:53:29.048  INFO: jarclassloading.JarClassLoader - Risky.class || 
+2014-08-04/10:53:29.048  INFO: jarclassloading.JarClassLoader - Sand.class || 
+2014-08-04/10:53:29.048  INFO: jarclassloading.JarClassLoader - Stereo.class || 
+2014-08-04/10:53:29.048  INFO: jarclassloading.JarClassLoader - test.class || 
+2014-08-04/10:56:08.595  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:56:08.596  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/10:56:22.514  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:56:26.747  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/10:57:35.937  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:57:35.938  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/10:57:35.940  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/10:57:35.940  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/10:57:35.940  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/10:57:35.940  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/10:57:35.940  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/10:57:35.941  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/10:57:35.942  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/10:57:35.943  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/10:57:35.943  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/10:57:35.943  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/10:57:46.023  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:57:48.558  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/10:57:48.561  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/10:57:48.561  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/10:57:48.562  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/10:57:48.562  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/10:57:48.562  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/10:57:48.562  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/10:57:48.562  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/10:57:48.562  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/10:57:48.562  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/10:57:48.563  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/10:57:48.563  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/10:57:48.563  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/10:57:48.563  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/10:57:48.563  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/10:57:48.563  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/10:57:48.563  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/10:57:48.563  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/10:57:48.564  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/10:57:57.889  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/10:58:01.763  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/10:58:11.553  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/10:58:12.727  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/10:58:12.727  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/10:58:12.728  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/10:58:12.728  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/10:58:12.728  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/10:58:12.728  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/10:58:12.729  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/10:58:12.729  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/10:58:12.729  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/10:58:12.729  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/10:58:12.730  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/10:58:12.730  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/10:58:12.730  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/10:58:12.730  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/10:58:12.731  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/10:58:12.731  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/10:58:12.731  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/10:58:12.731  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/10:58:12.732  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/10:58:12.732  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/10:58:12.732  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/10:58:12.732  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/10:58:12.733  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/10:58:12.733  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/10:58:12.733  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/11:00:33.664  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/11:00:33.666  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/11:00:33.669  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/11:00:33.669  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/11:00:33.669  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/11:00:33.669  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/11:00:33.669  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/11:00:33.669  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/11:00:33.669  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/11:00:33.670  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/11:00:33.671  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/11:00:33.671  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/11:00:33.671  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/11:00:33.671  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/11:00:33.671  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/11:00:33.671  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/11:00:33.671  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/11:00:33.671  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/11:00:33.672  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/11:00:33.672  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/11:00:43.416  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/11:00:43.418  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/11:00:43.420  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/11:00:43.420  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/11:00:43.420  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/11:00:43.420  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/11:00:43.420  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/11:00:43.420  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/11:00:43.420  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/11:00:43.421  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/11:00:43.422  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/11:00:43.422  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/11:00:43.422  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/11:00:43.422  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/11:00:43.422  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/11:00:43.422  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/11:00:43.422  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/11:00:43.422  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/11:00:43.423  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/11:00:43.423  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/11:01:41.061  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/11:01:41.062  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/11:01:41.064  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/11:01:41.065  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/11:01:41.066  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/11:01:41.066  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/11:01:41.066  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/11:01:41.066  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/11:01:41.066  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/11:01:41.066  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/11:01:41.066  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/11:01:41.066  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/11:01:51.686  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/11:01:51.688  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/11:01:56.971  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/11:01:56.971  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/11:01:56.972  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/11:01:56.972  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/11:01:56.972  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/11:01:56.972  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/11:01:56.972  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/11:01:56.972  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/11:01:56.972  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/11:01:56.972  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/11:01:56.973  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/11:01:56.974  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/11:01:56.974  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/11:01:56.974  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/11:01:56.974  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/11:01:56.974  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/11:01:56.974  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/11:01:56.974  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/11:02:07.861  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/11:02:07.863  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/11:02:07.864  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/11:02:07.864  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/11:02:07.865  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/11:02:07.865  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/11:02:07.865  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/11:02:07.865  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/11:02:07.865  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/11:02:07.865  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/11:02:07.865  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/11:02:07.865  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/11:02:07.866  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/11:02:07.866  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/11:02:07.866  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/11:02:07.866  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/11:02:07.866  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/11:02:07.866  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/11:02:07.866  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/11:02:07.866  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/11:02:07.867  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/11:02:07.867  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/11:02:07.867  INFO: jarclassloading.JarClassLoader - Pancake.class
+2014-08-04/11:02:07.867  INFO: jarclassloading.JarClassLoader - RediMix.class
+2014-08-04/11:02:07.867  INFO: jarclassloading.JarClassLoader - Risky.class
+2014-08-04/11:02:07.867  INFO: jarclassloading.JarClassLoader - Sand.class
+2014-08-04/11:02:07.867  INFO: jarclassloading.JarClassLoader - Stereo.class
+2014-08-04/11:02:07.867  INFO: jarclassloading.JarClassLoader - test.class
+2014-08-04/11:02:49.222  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/11:02:49.223  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/11:02:49.224  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/11:02:49.224  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/11:02:49.224  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/11:02:49.224  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/11:02:49.224  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/11:02:49.225  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/11:02:49.225  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/11:02:49.225  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/11:02:49.225  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/11:02:49.225  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/11:02:49.225  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/11:02:49.225  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/11:02:49.226  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/11:02:49.226  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/11:02:49.226  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/11:02:49.226  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/11:02:49.226  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/11:02:49.226  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/11:02:49.226  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/11:02:49.226  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:33:23.122  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/12:33:23.138  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:33:23.139  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:33:23.139  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:33:23.139  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:33:23.139  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:33:23.139  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:33:23.140  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:33:23.140  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:33:23.140  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:33:23.140  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:33:23.140  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:33:23.140  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:33:23.141  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:33:37.045  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/12:33:37.050  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/12:33:37.054  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/12:34:12.634  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/12:34:12.635  INFO: jarclassloading.JarClassLoader - Search with postfix : .class in file D:\Dropbox\Programming\java\jar-class-loading\ElenaF.jar
+2014-08-04/12:34:12.637  INFO: jarclassloading.JarClassLoader - task1.Elena.class was found
+2014-08-04/12:34:12.637  INFO: jarclassloading.JarClassLoader - task1.Main.class was found
+2014-08-04/12:34:12.637  INFO: jarclassloading.JarClassLoader - task2.RevertArray.class was found
+2014-08-04/12:34:12.637  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordCountsComparator.class was found
+2014-08-04/12:34:12.637  INFO: jarclassloading.JarClassLoader - textviewer.comparators.WordSizeComparator.class was found
+2014-08-04/12:34:12.638  INFO: jarclassloading.JarClassLoader - textviewer.MainClass.class was found
+2014-08-04/12:34:12.638  INFO: jarclassloading.JarClassLoader - textviewer.TextStatistic.class was found
+2014-08-04/12:34:12.638  INFO: jarclassloading.JarClassLoader - ================getClassesNames===============
+2014-08-04/12:34:12.638  INFO: jarclassloading.JarClassLoader - Search with postfix : .jar in file D:\Dropbox\Programming\java\jar-class-loading\test.jar
+2014-08-04/12:34:12.639  INFO: jarclassloading.JarClassLoader - otherlib.ElenaF.jar was found
+2014-08-04/12:37:03.620  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/12:37:03.621  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:37:03.622  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:37:03.622  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:37:03.622  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:37:03.622  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:37:03.622  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:37:03.623  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:37:03.624  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:37:03.624  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:37:03.624  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:37:03.624  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:37:03.624  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:37:03.624  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:37:22.428  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/12:37:22.430  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:37:22.430  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:37:22.430  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:37:22.430  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:37:22.431  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:37:22.431  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:37:22.431  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:37:22.431  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:37:22.431  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:37:22.431  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:37:22.431  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:37:22.432  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:37:22.432  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:37:22.432  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:37:22.432  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:37:22.432  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:37:22.432  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:37:22.432  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:37:22.432  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:37:22.433  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:37:22.433  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:38:03.700  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/12:38:03.701  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:38:03.702  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:38:03.702  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:38:03.702  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:38:03.702  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:38:03.702  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:38:03.702  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:38:03.703  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:38:03.704  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:38:03.704  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:38:03.704  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:38:03.704  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:38:07.231  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/12:38:07.233  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:38:07.234  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:38:07.234  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:38:07.234  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:38:07.234  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:38:07.234  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:38:07.234  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:38:07.235  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:38:07.236  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:38:07.236  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:38:07.236  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:38:07.236  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:38:07.236  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:40:31.741  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/12:40:31.742  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:40:31.743  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:40:31.743  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:40:31.743  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:40:31.743  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:40:31.743  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:40:31.744  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:40:31.745  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:40:31.745  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:40:31.745  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:40:31.745  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:40:31.745  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:41:28.943  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/12:41:28.944  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:41:28.945  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:41:28.945  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:41:28.945  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:41:28.945  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:41:28.945  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:41:28.946  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:41:28.946  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:41:28.946  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:41:28.946  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:41:28.946  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:41:28.946  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:41:28.946  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:41:28.947  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:41:28.947  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:41:28.947  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:41:28.947  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:41:28.947  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:41:28.947  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:41:28.947  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:41:28.947  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:42:30.436  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/12:42:30.437  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:42:30.438  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:42:30.438  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:42:30.438  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:42:30.438  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:42:30.438  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:42:30.439  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:42:30.440  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:42:30.440  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:42:30.440  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:42:30.440  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:42:30.440  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:42:30.440  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:42:33.023  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/12:43:03.334  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/12:43:03.335  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:43:03.336  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:43:03.336  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:43:03.336  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:43:03.336  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:43:03.336  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:43:03.337  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:43:03.337  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:43:03.337  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:43:03.337  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:43:03.337  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:43:03.337  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:43:03.337  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:43:03.338  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:43:03.338  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:43:03.338  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:43:03.338  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:43:03.338  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:43:03.338  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:43:03.338  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:43:03.338  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:43:03.340  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/12:43:27.941  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/12:43:27.943  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/12:43:27.943  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/12:43:27.943  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/12:43:27.943  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/12:43:27.944  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/12:43:27.944  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/12:43:27.944  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/12:43:27.944  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/12:43:27.944  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/12:43:27.944  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/12:43:27.944  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/12:43:27.945  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/12:43:27.946  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/12:43:32.601  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:03:14.657  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:03:14.658  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:03:14.659  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:03:14.659  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:03:14.659  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:03:14.659  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:03:14.659  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:03:14.659  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:03:14.660  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:03:14.661  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:03:14.661  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:03:14.661  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:03:14.661  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:03:14.703  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:11:29.450  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:11:29.451  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:11:29.452  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:11:29.452  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:11:29.452  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:11:29.452  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:11:29.452  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:11:29.452  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:11:29.453  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:11:29.454  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:11:29.454  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:11:29.454  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:11:29.454  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:11:29.520  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:12:54.151  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:12:54.152  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:12:54.153  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:12:54.153  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:12:54.153  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:12:54.153  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:12:54.153  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:12:54.154  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:12:54.155  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:12:54.155  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:12:54.155  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:12:54.155  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:12:54.155  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:12:54.243  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:19:48.939  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:19:48.941  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:19:48.941  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:19:48.942  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:19:48.942  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:19:48.942  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:19:48.942  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:19:48.943  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:19:48.943  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:19:48.943  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:19:48.943  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:19:48.943  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:19:48.944  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:20:26.362  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:20:26.364  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:20:26.364  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:20:26.364  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:20:26.365  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:20:26.365  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:20:26.365  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:20:26.365  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:20:26.365  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:20:26.365  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:20:26.366  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:20:26.367  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:20:26.367  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:20:26.367  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:25:27.255  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:25:27.256  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:25:27.256  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:25:27.256  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:25:27.257  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:25:27.257  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:25:27.257  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:25:27.257  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:25:27.257  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:25:27.257  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:25:27.257  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:25:27.257  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:25:27.258  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:26:51.390  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:26:51.391  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:26:51.392  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:26:51.392  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:26:51.392  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:26:51.392  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:26:51.392  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:26:51.393  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:26:51.393  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:26:51.393  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:26:51.393  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:26:51.393  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:26:51.393  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:26:51.393  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:26:51.393  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:26:51.394  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:26:51.394  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:26:51.394  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:26:51.394  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:26:51.394  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:26:51.394  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:26:51.394  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:27:14.094  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:27:14.095  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:27:14.095  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:27:14.095  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:27:14.096  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:27:14.096  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:27:14.096  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:27:14.096  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:27:14.096  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:27:14.096  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:27:14.096  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:27:14.096  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:27:14.097  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:28:22.904  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:28:22.905  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:28:22.906  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:28:22.906  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:28:22.906  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:28:22.906  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:28:22.906  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:28:22.906  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:28:22.907  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:28:22.908  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:28:22.908  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:28:22.908  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:28:22.908  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:28:22.908  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:28:35.763  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:28:35.764  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:28:35.765  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:28:35.765  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:28:35.765  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:28:35.765  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:28:35.765  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:28:35.766  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:28:35.766  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:28:35.766  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:28:35.766  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:28:35.766  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:28:35.766  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:28:35.766  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:28:35.766  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:28:35.767  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:28:35.767  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:28:35.767  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:28:35.767  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:28:35.767  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:28:35.767  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:28:35.767  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:28:58.884  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:28:58.885  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:28:58.886  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:28:58.886  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:28:58.886  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:28:58.886  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:28:58.887  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:28:58.887  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:28:58.887  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:28:58.887  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:28:58.887  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:28:58.887  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:28:58.887  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:28:58.888  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:29:21.314  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:29:21.315  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:29:21.316  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:29:21.316  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:29:21.316  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:29:21.316  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:29:21.316  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:29:21.316  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:29:21.317  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:29:21.318  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:29:21.318  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:29:21.318  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:29:21.318  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:30:55.376  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:30:55.378  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:30:55.379  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:30:55.379  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:30:55.379  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:30:55.379  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:30:55.379  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:30:55.380  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:30:55.380  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:30:55.380  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:30:55.380  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:30:55.380  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:30:55.380  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:30:55.380  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:30:55.380  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:30:55.381  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:30:55.381  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:30:55.381  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:30:55.381  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:30:55.381  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:30:55.381  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:30:55.381  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:31:06.851  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:42:28.875  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:42:28.876  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:42:28.876  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:42:28.877  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:42:28.877  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:42:28.877  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:42:28.877  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:42:28.877  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:42:28.877  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:42:28.877  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:42:28.878  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:42:28.879  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:42:28.879  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:42:28.879  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:42:28.921  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:43:00.850  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:43:00.852  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:43:00.852  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:43:00.852  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:43:00.852  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:43:00.852  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:43:00.853  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:43:00.853  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:43:00.853  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:43:00.853  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:43:00.853  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:43:00.853  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:43:00.854  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:43:00.895  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:43:37.927  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:43:37.928  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:43:37.929  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:43:37.929  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:43:37.929  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:43:37.929  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:43:37.929  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:43:37.930  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:43:37.930  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:43:37.930  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:43:37.930  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:43:37.930  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:43:37.930  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:43:37.930  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:43:37.930  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:43:37.931  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:43:37.931  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:43:37.931  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:43:37.931  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:43:37.931  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:43:37.931  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:43:37.931  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:43:37.973  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:45:29.072  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:45:29.073  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:45:29.074  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:45:29.074  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:45:29.074  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:45:29.075  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:45:29.075  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:45:29.075  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:45:29.075  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:45:29.075  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:45:29.075  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:45:29.076  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:45:29.076  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:45:29.076  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:45:29.076  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:45:29.076  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:45:29.076  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:45:29.076  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:45:29.076  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:45:29.077  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:45:29.077  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:45:29.077  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:46:05.142  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/13:56:36.265  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/13:56:36.266  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/13:56:36.267  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/13:56:36.267  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/13:56:36.267  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/13:56:36.267  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/13:56:36.267  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/13:56:36.268  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/13:56:36.268  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/13:56:36.268  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/13:56:36.268  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/13:56:36.268  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/13:56:36.268  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/13:56:36.268  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/13:56:36.269  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/13:56:36.269  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/13:56:36.269  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/13:56:36.269  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/13:56:36.269  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/13:56:36.269  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/13:56:36.269  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/13:56:36.269  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/13:56:36.314  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/14:19:05.800  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/14:19:05.801  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/14:19:05.801  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/14:19:05.801  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/14:19:05.802  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/14:19:05.802  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/14:19:05.802  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/14:19:05.802  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/14:19:05.802  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/14:19:05.802  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/14:19:05.802  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/14:19:05.802  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/14:19:05.803  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/14:19:05.804  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/14:19:05.806  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/14:19:21.073  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/14:19:21.074  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/14:19:21.075  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/14:19:21.075  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/14:19:21.075  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/14:19:21.075  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/14:19:21.075  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/14:19:21.075  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/14:19:21.075  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/14:19:21.075  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/14:19:21.076  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/14:19:21.077  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/14:19:21.077  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/14:19:21.077  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/14:19:21.079  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/14:20:11.162  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena.class
+2014-08-04/14:20:11.163  INFO: jarclassloading.JarClassLoader - A.class
+2014-08-04/14:20:11.163  INFO: jarclassloading.JarClassLoader - B.class
+2014-08-04/14:20:11.163  INFO: jarclassloading.JarClassLoader - BoomBox2.class
+2014-08-04/14:20:11.163  INFO: jarclassloading.JarClassLoader - Bungee.class
+2014-08-04/14:20:11.164  INFO: jarclassloading.JarClassLoader - C.class
+2014-08-04/14:20:11.164  INFO: jarclassloading.JarClassLoader - callabletest/
+2014-08-04/14:20:11.164  INFO: jarclassloading.JarClassLoader - callabletest/CallableTest.class
+2014-08-04/14:20:11.164  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable.class
+2014-08-04/14:20:11.164  INFO: jarclassloading.JarClassLoader - callabletest/CardCallable2.class
+2014-08-04/14:20:11.164  INFO: jarclassloading.JarClassLoader - callabletest/EqCArdThread.class
+2014-08-04/14:20:11.164  INFO: jarclassloading.JarClassLoader - callabletest/EqCardThread2.class
+2014-08-04/14:20:11.164  INFO: jarclassloading.JarClassLoader - callabletest/MyCall.class
+2014-08-04/14:20:11.165  INFO: jarclassloading.JarClassLoader - Concrete.class
+2014-08-04/14:20:11.165  INFO: jarclassloading.JarClassLoader - Fabric.class
+2014-08-04/14:20:11.165  INFO: jarclassloading.JarClassLoader - Main.class
+2014-08-04/14:20:11.165  INFO: jarclassloading.JarClassLoader - META-INF/
+2014-08-04/14:20:11.165  INFO: jarclassloading.JarClassLoader - META-INF/MANIFEST.MF
+2014-08-04/14:20:11.165  INFO: jarclassloading.JarClassLoader - MyPancake.class
+2014-08-04/14:20:11.165  INFO: jarclassloading.JarClassLoader - MySort.class
+2014-08-04/14:20:11.165  INFO: jarclassloading.JarClassLoader - otherlib/
+2014-08-04/14:20:11.166  INFO: jarclassloading.JarClassLoader - otherlib/ElenaF.jar
+2014-08-04/14:20:11.168  INFO: jarclassloading.JarClassLoader - Elena.class was found

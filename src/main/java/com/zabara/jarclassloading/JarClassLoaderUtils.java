@@ -33,4 +33,9 @@ public class JarClassLoaderUtils {
             writer.write((index++) + ") " + method + "\n");
         }
     }
+
+    public static String getFileName(String absPath) {
+        String[] result = absPath.split("/");
+        return result[result.length-1];
+    }
 }
