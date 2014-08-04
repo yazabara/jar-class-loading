@@ -101,6 +101,7 @@ public class JarClassLoader extends ClassLoader {
                 }
 
             }
+            unJarDir.deleteOnExit();
         } catch (Exception e) {
             e.printStackTrace();
         }
