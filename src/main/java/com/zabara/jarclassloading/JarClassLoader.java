@@ -53,7 +53,7 @@ public class JarClassLoader extends ClassLoader {
                         clazz = getParent().loadClass(name);
                     }
                 } catch (ClassNotFoundException ex) {
-                    logger.warn("JarClassLoader parent can't find class " + name);
+                    logger.warn("JarClassLoader's parent can't find class " + name);
                 }
                 //если parent не нашел класс - ищем сами
                 if (clazz == null) {
@@ -67,17 +67,11 @@ public class JarClassLoader extends ClassLoader {
     public Class<?> findClass(String jarFilePath, String className) {
         Class result = null;
         try {
-
-            JarFile jarFile = new JarFile(jarFilePath);
             File jarDir = new File(jarFilePath).getParentFile();
-
             JarClassLoader.unzipJar(jarDir + "/" + className, jarFilePath);
-
             File unJarDir = new File(jarDir + "/" + className);
-
             List<File> files = JarClassLoader.getJarFiles(unJarDir);
 
-            // Create the necessary package if needed...
             int index = className.lastIndexOf('.');
             if (index >= 0) {
                 String packageName = className.substring(0, index);
@@ -86,8 +80,7 @@ public class JarClassLoader extends ClassLoader {
                 }
             }
 
-
-            for (File file: files) {
+            for (File file : files) {
                 JarInputStream inputStream = new JarInputStream(new FileInputStream(file.getAbsolutePath()));
                 JarEntry jarEntry = JarClassLoader.findClassEntry(inputStream, className);
                 //если не null - это наш класс
@@ -99,7 +92,10 @@ public class JarClassLoader extends ClassLoader {
                         org.apache.commons.io.IOUtils.copy(is, os);
                         byte[] bytes = os.toByteArray();
                         result = defineClass(className, bytes, 0, bytes.length);
+                        os.flush();
+                        os.close();
                     } catch (IOException ioe) {
+                        logger.info("can't find class" + className + " in file " + file.getName());
                     }
                     break;
                 }
@@ -166,7 +162,7 @@ public class JarClassLoader extends ClassLoader {
             if (jarEntry == null) {
                 break;
             }
-            if (className.equals(jarEntry.getName().replace("/", "."))) {
+            if ((className + ".class").equals(jarEntry.getName().replace("/", "."))) {
                 logger.info(JarClassLoaderUtils.getFileName(jarEntry.getName()) + " was found");
                 return jarEntry;
             }

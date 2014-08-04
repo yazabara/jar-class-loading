@@ -1,0 +1,9 @@
+2014-08-04/17:16:35.006  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/17:16:50.990  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/17:17:28.199  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/17:17:43.914  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/17:18:08.103  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/17:19:04.095  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/17:19:12.599  INFO: jarclassloading.JarClassLoader - Elena.class was found
+2014-08-04/17:31:09.015  WARN: jarclassloading.JarClassLoader - JarClassLoader parent can't find class task1.Elena
+2014-08-04/17:31:09.171  INFO: jarclassloading.JarClassLoader - Elena.class was found
