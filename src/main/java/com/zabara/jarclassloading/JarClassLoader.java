@@ -7,14 +7,12 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLClassLoader;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Enumeration;
 import java.util.List;
 import java.util.jar.JarEntry;
 import java.util.jar.JarFile;
 import java.util.jar.JarInputStream;
-import java.util.jar.JarOutputStream;
-
-import org.apache.commons.io.IOUtils;
 
 /**
  * Created by Yaroslav_Zabara on 8/4/2014.
@@ -59,37 +57,25 @@ public class JarClassLoader extends ClassLoader {
                 }
                 //если parent не нашел класс - ищем сами
                 if (clazz == null) {
-                    clazz = findClass(jarPath, name, "ElenaF.jar");
+                    clazz = findClass(jarPath, name);
                 }
             }
         }
         return clazz;//super.loadClass(name, resolve);
     }
 
-    public Class<?> findClass(String jarFilePath, String className, String jarName) {
+    public Class<?> findClass(String jarFilePath, String className) {
         Class result = null;
         try {
+
             JarFile jarFile = new JarFile(jarFilePath);
-            //нашли нашу jar в jar-файле
-            JarEntry jarEntry = JarClassLoader.findJarEntry(jarFile, jarName);
-            if (jarEntry == null) {
-                return null;
-            }
+            File jarDir = new File(jarFilePath).getParentFile();
 
-            JarInputStream jarInputStream = new JarInputStream(jarFile.getInputStream(jarEntry));
+            JarClassLoader.unzipJar(jarDir + "/" + className, jarFilePath);
 
-//            File jarDir = new File(jarFilePath).getParentFile();
-//            File file = File.createTempFile("tmp", "", jarDir);
-//            file.getParentFile().mkdir();
-//            file.mkdir();
-//            OutputStream out = new FileOutputStream(file);
-//
-//            IOUtils.copy(jarInputStream, out);
-//            out.flush();
-//            out.close();
+            File unJarDir = new File(jarDir + "/" + className);
 
-            JarEntry classEntry = JarClassLoader.findClassEntry(jarInputStream, className);
-
+            List<File> files = JarClassLoader.getJarFiles(unJarDir);
 
             // Create the necessary package if needed...
             int index = className.lastIndexOf('.');
@@ -99,10 +85,68 @@ public class JarClassLoader extends ClassLoader {
                     definePackage(packageName, "", "", "", "", "", "", null);
                 }
             }
+
+
+            for (File file: files) {
+                JarInputStream inputStream = new JarInputStream(new FileInputStream(file.getAbsolutePath()));
+                JarEntry jarEntry = JarClassLoader.findClassEntry(inputStream, className);
+                //если не null - это наш класс
+                if (jarEntry != null) {
+                    try {
+                        JarFile jarFile1 = new JarFile(file);
+                        InputStream is = jarFile1.getInputStream(jarEntry);
+                        ByteArrayOutputStream os = new ByteArrayOutputStream();
+                        org.apache.commons.io.IOUtils.copy(is, os);
+                        byte[] bytes = os.toByteArray();
+                        result = defineClass(className, bytes, 0, bytes.length);
+                    } catch (IOException ioe) {
+                    }
+                    break;
+                }
+
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }
         return result;
+    }
+
+    /**
+     * Проходит по всем директориям и возвращает нужные файлы
+     *
+     * @param unJarDir
+     * @return
+     */
+    private static List<File> getJarFiles(File unJarDir) {
+        List<File> files = new ArrayList<File>(Arrays.asList(unJarDir.listFiles(new FileFilter() {
+            @Override
+            public boolean accept(File file) {
+                return file.getName().endsWith(".jar"); // return .url files
+            }
+        })));
+
+        List<File> subdirs = Arrays.asList(unJarDir.listFiles(new FileFilter() {
+            public boolean accept(File f) {
+                return f.isDirectory();
+            }
+        }));
+
+        for (File subdir : subdirs) {
+            files.addAll(JarClassLoader.getJarFiles(subdir));
+        }
+        return files;
+    }
+
+    private static void writeFile(String fileName, InputStream is) throws IOException {
+        if (!fileName.endsWith("/")) {
+            File f = new File(fileName);
+            FileOutputStream fos = new FileOutputStream(f);
+            while (is.available() > 0) {
+                fos.write(is.read());
+            }
+            fos.close();
+            is.close();
+        }
     }
 
     /**
@@ -134,57 +178,21 @@ public class JarClassLoader extends ClassLoader {
         File file = new File(jarPath);
         JarFile jar = new JarFile(file);
         // fist get all directories,
-        for (Enumeration<JarEntry> enums = jar.entries(); enums.hasMoreElements();) {
-            JarEntry entry = (JarEntry) enums.nextElement();
-
+        for (Enumeration<JarEntry> enums = jar.entries(); enums.hasMoreElements(); ) {
+            JarEntry entry = enums.nextElement();
             String fileName = destinationDir + File.separator + entry.getName();
             File f = new File(fileName);
-
             if (fileName.endsWith("/")) {
                 f.mkdirs();
             }
-
         }
         //now create all files
-        for (Enumeration<JarEntry> enums = jar.entries(); enums.hasMoreElements();) {
-            JarEntry entry = (JarEntry) enums.nextElement();
+        for (Enumeration<JarEntry> enums = jar.entries(); enums.hasMoreElements(); ) {
+            JarEntry entry = enums.nextElement();
+            InputStream is = jar.getInputStream(entry);
             String fileName = destinationDir + File.separator + entry.getName();
-            File f = new File(fileName);
-            if (!fileName.endsWith("/")) {
-                InputStream is = jar.getInputStream(entry);
-                FileOutputStream fos = new FileOutputStream(f);
-
-                // write contents of 'is' to 'fos'
-                while (is.available() > 0) {
-                    fos.write(is.read());
-                }
-                fos.close();
-                is.close();
-            }
+            JarClassLoader.writeFile(fileName, is);
         }
-    }
-
-    /**
-     * Ищет первый jar - в jar файле
-     *
-     * @param jarFile
-     * @param entryName
-     * @return
-     * @throws IOException
-     */
-    private static JarEntry findJarEntry(JarFile jarFile, String entryName) throws IOException {
-        if (entryName != null && jarFile != null) {
-            Enumeration entries = jarFile.entries();
-
-            while (entries.hasMoreElements()) {
-                JarEntry entry = (JarEntry) entries.nextElement();
-                logger.info(entry.getName());
-                if (entryName.equals(JarClassLoaderUtils.getFileName(entry.getName()))) {
-                    return entry;
-                }
-            }
-        }
-        return null;
     }
 
     /**
